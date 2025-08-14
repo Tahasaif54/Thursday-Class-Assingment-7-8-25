@@ -48,3 +48,18 @@ You will build a bot that can assist customers with common queries and order tra
 
 ---
 
+## How to Run
+```bash
+# Clone This Respository
+
+# Then Go to the Assignment Folder Directory
+cd "Assignment 3"
+
+# Install dependencies
+uv add openai-agents python-dotenv
+
+# Add API KEY in .env File
+add GEMINI_API_KEY="YOUR_API_KEY_HERE" IN .env file 
+
+# Run Smart Customer Support Bot
+uv run main.py
