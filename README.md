@@ -121,8 +121,11 @@ uv run main.py
 
 ---
 
-**Submitted by:** Taha Saif
-**Student Roll No:** 465829
-**Slot:** Thursday Evening 7pm - 10pm 
-**Date:** 15 August 2025
+### 📝 Submission Details
+
+| **Submitted by** | **Taha Saif** |
+|------------------|--------------|
+| **Student Roll No** | 465829 |
+| **Slot** | Thursday Evening — 7:00 PM to 10:00 PM |
+| **Date** | 15 August 2025 |
 
