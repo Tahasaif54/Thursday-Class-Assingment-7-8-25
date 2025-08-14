@@ -14,7 +14,7 @@ Convert static instructions into dynamic ones using OpenAI’s Agent SDK.
 ```bash
 # Clone This Respository
 
-# The Go to the Assignment Folder Directory
+# Then Go to the Assignment Folder Directory
 cd "Assignment 2"
 
 
@@ -26,3 +26,4 @@ add GEMINI_API_KEY="YOUR_API_KEY_HERE" IN .env file
 
 # Run Dynamic Hotel Assistant
 uv run main.py
+
