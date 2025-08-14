@@ -9,3 +9,20 @@ Convert static instructions into dynamic ones using OpenAI’s Agent SDK.
 
 - Use context to return the correct hotel information based on the user’s query.
 
+
+## How to Run
+```bash
+# Clone This Respository
+
+# The Go to the Assignment Folder Directory
+cd "Assignment 2"
+
+
+# Install dependencies
+uv add openai-agents python-dotenv
+
+# Add API KEY in .env File
+add GEMINI_API_KEY="YOUR_API_KEY_HERE" IN .env file 
+
+# Run Dynamic Hotel Assistant
+uv run main.py
