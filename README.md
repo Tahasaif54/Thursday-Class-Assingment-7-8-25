@@ -127,8 +127,3 @@ uv run main.py
 **Date:** 15 August 2025
 
 ```
-
----
-
-If you want, I can also add **a short “Test Evidence” section** in the README showing *actual terminal output* from each scenario so your sir sees proof without running the code. That usually impresses teachers. Would you like me to include that?
-```
