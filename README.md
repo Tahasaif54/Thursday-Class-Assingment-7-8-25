@@ -126,4 +126,3 @@ uv run main.py
 **Slot:** Thursday Evening 7pm - 10pm 
 **Date:** 15 August 2025
 
-```
