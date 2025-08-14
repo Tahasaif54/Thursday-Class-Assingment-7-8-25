@@ -9,6 +9,11 @@ Extend the guardrails.py example to add output guardrails using OpenAI’s Agent
 
 ##  How to Run
 ```bash
+# Clone This Respository
+
+# Then Go to the Assignment Folder Directory
+cd "Assignment 1"
+
 # Install dependencies
 uv add openai-agents python-dotenv
 
@@ -16,5 +21,5 @@ uv add openai-agents python-dotenv
 add GEMINI_API_KEY="YOUR_API_KEY_HERE" IN .env file 
 
 # Run Guardrails assignment
-cd "Assignment 1"
 uv run main.py
+
