@@ -122,9 +122,9 @@ uv run main.py
 ---
 
 **Submitted by:** Taha Saif
-**Student Role No:** **465829**
-""Slot"" ""Thursday Evening 7pm - 10pm"" 
-**Date:**15 August 2025
+**Student Role No:** 465829
+**Slot:** Thursday Evening 7pm - 10pm 
+**Date:** 15 August 2025
 
 ```
 
